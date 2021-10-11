@@ -1,5 +1,5 @@
-from my_project import __version__
+from initial import __version__
 
 
 def test_version():
-    assert __version__ == '0.1.0'
+    assert __version__ == "0.1.0"
