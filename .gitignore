@@ -141,4 +141,5 @@ cython_debug/
 .coverage
 
 # Vs code
-.vscode/\n.idea/
+.vscode/
+.idea/
